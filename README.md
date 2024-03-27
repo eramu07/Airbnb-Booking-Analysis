@@ -32,6 +32,9 @@ Provide valuable insights for property investors to make informed decisions rega
 Our objective is to utilize data-driven insights from the Airbnb booking dataset to optimize pricing, maximize revenue, and enhance customer satisfaction.
 # Let's Begin!
 # 1. Know Your Data
+**Import Libraries**
+
+
 
 
 
