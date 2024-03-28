@@ -3,7 +3,7 @@
 #### Project Type - EDA (Exploratory Data Analysis
 #### Contribution - Individual/Team
 ## Project Summary -
-Since its inception in 2008, Airbnb has revolutionized the travel industry with its unique and personalized approach, catering to the needs of both travelers and hosts worldwide. The company places significant emphasis on data analysis, especially concerning the vast array of listings available on its platform. These listings generate extensive data, offering opportunities to bolster security measures, drive informed business strategies, glean insights into customer and host behaviors, steer marketing endeavors, and introduce innovative services. The dataset at hand encompasses roughly 49,000 observations, featuring a diverse mix of categorical and numerical data across 16 distinct columns.
+Since its inception in 2008, Airbnb has revolutionized the travel industry with its unique and personalized approach, catering to the needs of both travelers and hosts worldwide. The company places significant emphasis on data analysis, especially concerning its platform's vast array of listings. These listings generate extensive data, offering opportunities to bolster security measures, drive informed business strategies, glean insights into customer and host behaviors, steer marketing endeavors, and introduce innovative services. The dataset at hand encompasses roughly 49,000 observations, featuring a diverse mix of categorical and numerical data across 16 columns.
 
 We aim to explore and analyze the data to discover key understandings (not limited to these) such as :
 1. How do pricing strategies affect booking patterns and revenue generation on the Airbnb platform?
